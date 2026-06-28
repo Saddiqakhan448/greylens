@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greylens2026.surge.sh/sitemap.xml
+Sitemap: https://saddiqakhan448.github.io/greylens/sitemap.xml
